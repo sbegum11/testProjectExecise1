@@ -25,7 +25,7 @@ public class CustomerTest {
     @DisplayName("test  for size")
     @Test
     void testSize(){
-        
+
     }
 
 }
